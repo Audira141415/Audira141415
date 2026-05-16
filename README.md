@@ -1,6 +1,3 @@
-Berikut versi yang lebih lengkap, lebih professional, lebih “Data Center Engineer”, tetapi tetap modern seperti contoh Anda. Saya juga sudah memperbaiki struktur markdown yang error pada file sebelumnya. 
-
-````md
 # 🚀 Agus Dwi Rianto
 
 <p align="center">
