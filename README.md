@@ -1,13 +1,12 @@
-````md
 # 🚀 Agus Dwi Rianto
 
-<div align="center">
+<p align="center">
 
 ### ⚡ Data Center Engineer • Infrastructure Architect • AI Automation Builder ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Cloud+Infrastructure+Engineer;Automation+System+Builder;Proxmox+%7C+Docker+%7C+Linux+Specialist;Enterprise+Dashboard+Architect;Homelab+%26+Virtualization+Enthusiast;Building+Scalable+Technology+Ecosystems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Cloud+Infrastructure+Engineer;Automation+System+Builder;Proxmox+%7C+Docker+%7C+Linux+Specialist;Enterprise+Dashboard+Architect;Homelab+%26+Virtualization+Enthusiast;Building+Scalable+Technology+Ecosystems"/>
 
-</div>
+</p>
 
 ---
 
