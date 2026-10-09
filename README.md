@@ -8,6 +8,12 @@
 
 </p>
 
+<p align="center">
+
+🔍 **Open to work** — seeking Data Center / Infrastructure roles in **Batam, Indonesia** (onsite)
+
+</p>
+
 ---
 
 ## 🌌 About Me
